@@ -1,1 +1,1 @@
-# chatbot_cindy
+Cindy is a smart food-ordering chatbot designed to streamline the ordering process. Built with Dialogflow for natural language understanding, a FastAPI backend, and a MySQL database, it handles all order-related tasks, including placing, modifying, and tracking orders in real time. The user-friendly frontend, created with HTML and CSS, ensures a smooth and intuitive experience for managing orders efficiently.
